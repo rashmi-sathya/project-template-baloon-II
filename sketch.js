@@ -98,7 +98,7 @@ function draw() {
  
   
   drawSprites();
-  text("Score: "+ score, 300,50);
+//Add the text condition to display the score.
 }
 
 
